@@ -1,0 +1,29 @@
+{
+    "frappe": {
+        "resolution": {
+            "commit_hash": null,
+            "branch": null
+        },
+        "required": [],
+        "idx": 1,
+        "version": "13.41.4"
+    },
+    "erpnext": {
+        "resolution": {
+            "commit_hash": "c66ebcdf9a116a638d7cb582f1a1059a0c52b9bb",
+            "branch": "version-13"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "13.39.5"
+    },
+    "abakada": {
+        "resolution": {
+            "commit_hash": "f2487b85b585f032a72d11be06db4b9bd4603f43",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 3,
+        "version": "0.0.1"
+    }
+}

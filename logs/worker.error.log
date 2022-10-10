@@ -1,0 +1,512 @@
+Exception in thread Exception in thread Exception in thread Thread-1Thread-1:
+:
+Thread-1:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+        self.run()self.run()    
+
+self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+            pubsub.get_message(ignore_subscribe_messages=True,pubsub.get_message(ignore_subscribe_messages=True,
+pubsub.get_message(ignore_subscribe_messages=True,
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+        response = self.parse_response(block=False, timeout=timeout)response = self.parse_response(block=False, timeout=timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+        return self._parser.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+        return self._buffer and self._buffer.can_read(timeout)return self._buffer and self._buffer.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+        return self._buffer and self._buffer.can_read(timeout)raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+redis.exceptions.ConnectionError: Connection closed by server.redis.exceptions
+.ConnectionError: Connection closed by server.
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1Exception in thread :
+Thread-1Traceback (most recent call last):
+:
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+        return self._buffer and self._buffer.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    return self._buffer and self._buffer.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+    self._read_from_socket(timeout=timeout,
+redis.exceptions  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+.ConnectionError: Connection closed by server.
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1Exception in thread :
+Thread-1:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+        self.run()self.run()
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+      File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+        return self._parser.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+        return self._buffer and self._buffer.can_read(timeout)return self._buffer and self._buffer.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+        self._read_from_socket(timeout=timeout,self._read_from_socket(timeout=timeout,
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+        raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+
+redis.exceptionsredis.exceptions..ConnectionErrorConnectionError: : Connection closed by server.Connection closed by server.
+
+Exception in thread Thread-1:
+Exception in thread Traceback (most recent call last):
+Thread-1  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+        self.run()self.run()    
+
+self.run()  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,    
+pubsub.get_message(ignore_subscribe_messages=True,  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+        response = self.parse_response(block=False, timeout=timeout)response = self.parse_response(block=False, timeout=timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+        if not block and not conn.can_read(timeout=timeout):if not block and not conn.can_read(timeout=timeout):
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+        return self._parser.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+    return self._buffer and self._buffer.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    return self._buffer and self._buffer.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    return self._buffer and self._buffer.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    self._read_from_socket(timeout=timeout,
+      File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+self._read_from_socket(timeout=timeout,
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+
+redis.exceptions.ConnectionError: Connection closed by server.
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)    
+raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptionsredis.exceptions..ConnectionErrorConnectionError: : Connection closed by server.Connection closed by server.
+
+Exception in thread Exception in thread Thread-1:
+Thread-1:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+      File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+        response = self.parse_response(block=False, timeout=timeout)response = self.parse_response(block=False, timeout=timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+    return self._buffer and self._buffer.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    self._read_from_socket(timeout=timeout,    
+return self._buffer and self._buffer.can_read(timeout)  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Exception in thread Thread-1Thread-1:
+:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Exception in thread   File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+        self.run()self.run()
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+        pubsub.get_message(ignore_subscribe_messages=True,pubsub.get_message(ignore_subscribe_messages=True,
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    response = self.parse_response(block=False, timeout=timeout)    
+response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+    return self._buffer and self._buffer.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+        if not block and not conn.can_read(timeout=timeout):if not block and not conn.can_read(timeout=timeout):
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+        return self._parser.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 321, in can_read
+        return self._buffer and self._buffer.can_read(timeout)return self._buffer and self._buffer.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 230, in can_read
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    self._read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 201, in _read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions    .raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)ConnectionError
+: Connection closed by server.
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+        self.run()self.run()
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+        response = self.parse_response(block=False, timeout=timeout)response = self.parse_response(block=False, timeout=timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptionsredis.exceptions.ConnectionError: Connection closed by server.
+.ConnectionError: Connection closed by server.
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Exception in thread Thread-1:
+Thread-1:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+      File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+        return self._parser.can_read(timeout)raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+redis.exceptions.ConnectionError: Connection closed by server.
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/botocore/httpsession.py:18: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/botocore/httpsession.py:18: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/botocore/httpsession.py:18: DeprecationWarning: 'urllib3.contrib.pyopenssl' module is deprecated and will be removed in a future release of urllib3 2.x. Read more in this issue: https://github.com/urllib3/urllib3/issues/2680
+  from urllib3.contrib.pyopenssl import orig_util_SSLContext as SSLContext
+Exception in thread Exception in thread Exception in thread Thread-1Thread-1:
+:
+Thread-1:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()    
+self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    pubsub.get_message(ignore_subscribe_messages=True,    
+pubsub.get_message(ignore_subscribe_messages=True,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):    
+if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+        return self._parser.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+        return self.read_from_socket(timeout=timeout,return self.read_from_socket(timeout=timeout,
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+        raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+
+redis.exceptionsredis.exceptions..ConnectionErrorConnectionError: : Connection closed by server.Connection closed by server.
+
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+        pubsub.get_message(ignore_subscribe_messages=True,pubsub.get_message(ignore_subscribe_messages=True,
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+redis.exceptions.ConnectionError: Connection closed by server.
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.
+Exception in thread Exception in thread Thread-1:
+Exception in thread Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+Thread-1Thread-1:
+:
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+  File "/usr/lib/python3.8/threading.py", line 932, in _bootstrap_inner
+    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+    self.run()    self.run()
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3718, in run
+            pubsub.get_message(ignore_subscribe_messages=True,pubsub.get_message(ignore_subscribe_messages=True,pubsub.get_message(ignore_subscribe_messages=True,
+
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3617, in get_message
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+        if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+response = self.parse_response(block=False, timeout=timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/client.py", line 3503, in parse_response
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+        return self._parser.can_read(timeout)return self._parser.can_read(timeout)
+
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    if not block and not conn.can_read(timeout=timeout):
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 734, in can_read
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    return self.read_from_socket(timeout=timeout,
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+    return self._parser.can_read(timeout)
+  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 416, in can_read
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptionsredis.exceptions    ..return self.read_from_socket(timeout=timeout,ConnectionErrorConnectionError
+: : Connection closed by server.  File "/home/jopet2/frappe-bench/env/lib/python3.8/site-packages/redis/connection.py", line 429, in read_from_socket
+Connection closed by server.
+
+    raise ConnectionError(SERVER_CLOSED_CONNECTION_ERROR)
+redis.exceptions.ConnectionError: Connection closed by server.

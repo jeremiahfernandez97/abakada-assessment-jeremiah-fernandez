@@ -1,0 +1,900 @@
+16:55:48 Worker rq:worker:9d37b196ca9c4d4ea6b4d0b381e1f856.DESKTOP-H4C5U4M.4415.short: started, version 1.8.1
+16:55:48 Subscribing to channel rq:pubsub:9d37b196ca9c4d4ea6b4d0b381e1f856.DESKTOP-H4C5U4M.4415.short
+16:55:48 *** Listening on short...
+16:55:48 Cleaning registries for queue: short
+16:55:48 Worker rq:worker:873ecb9956fc4fb6aeb5ce98be9b95b1.DESKTOP-H4C5U4M.4414.default: started, version 1.8.1
+16:55:48 Subscribing to channel rq:pubsub:873ecb9956fc4fb6aeb5ce98be9b95b1.DESKTOP-H4C5U4M.4414.default
+16:55:48 *** Listening on default...
+16:55:48 Cleaning registries for queue: default
+16:55:48 Worker rq:worker:1fd97ab6b7574b019ddf306bb8eb690e.DESKTOP-H4C5U4M.4416.long: started, version 1.8.1
+16:55:48 Subscribing to channel rq:pubsub:1fd97ab6b7574b019ddf306bb8eb690e.DESKTOP-H4C5U4M.4416.long
+16:55:48 *** Listening on long...
+16:55:48 Cleaning registries for queue: long
+16:56:45 Warm shut down requested
+16:56:45 Warm shut down requested
+16:56:45 Warm shut down requested
+16:56:45 Unsubscribing from channel rq:pubsub:873ecb9956fc4fb6aeb5ce98be9b95b1.DESKTOP-H4C5U4M.4414.default
+16:56:45 Unsubscribing from channel rq:pubsub:9d37b196ca9c4d4ea6b4d0b381e1f856.DESKTOP-H4C5U4M.4415.short
+16:56:45 Unsubscribing from channel rq:pubsub:1fd97ab6b7574b019ddf306bb8eb690e.DESKTOP-H4C5U4M.4416.long
+16:57:50 Worker rq:worker:d822db9a7d8a4b809f1b2cc349badab0.DESKTOP-H4C5U4M.4585.long: started, version 1.8.1
+16:57:50 Subscribing to channel rq:pubsub:d822db9a7d8a4b809f1b2cc349badab0.DESKTOP-H4C5U4M.4585.long
+16:57:50 *** Listening on long...
+16:57:50 Worker rq:worker:d049796960a84cac9d6efd198e6fb674.DESKTOP-H4C5U4M.4590.default: started, version 1.8.1
+16:57:50 Cleaning registries for queue: long
+16:57:50 Subscribing to channel rq:pubsub:d049796960a84cac9d6efd198e6fb674.DESKTOP-H4C5U4M.4590.default
+16:57:50 *** Listening on default...
+16:57:50 Cleaning registries for queue: default
+16:57:50 Worker rq:worker:e9ee1fc9aa1c4e74ab8e144d2e774e9f.DESKTOP-H4C5U4M.4593.short: started, version 1.8.1
+16:57:50 Subscribing to channel rq:pubsub:e9ee1fc9aa1c4e74ab8e144d2e774e9f.DESKTOP-H4C5U4M.4593.short
+16:57:50 *** Listening on short...
+16:57:50 Cleaning registries for queue: short
+16:59:06 Warm shut down requested
+16:59:06 Warm shut down requested
+16:59:06 Unsubscribing from channel rq:pubsub:e9ee1fc9aa1c4e74ab8e144d2e774e9f.DESKTOP-H4C5U4M.4593.short
+16:59:06 Unsubscribing from channel rq:pubsub:d049796960a84cac9d6efd198e6fb674.DESKTOP-H4C5U4M.4590.default
+16:59:06 Warm shut down requested
+16:59:06 Unsubscribing from channel rq:pubsub:d822db9a7d8a4b809f1b2cc349badab0.DESKTOP-H4C5U4M.4585.long
+17:06:37 Worker rq:worker:f1fa991eb4a4462cb6c3163c63f44820.DESKTOP-H4C5U4M.4813.default: started, version 1.8.1
+17:06:37 Subscribing to channel rq:pubsub:f1fa991eb4a4462cb6c3163c63f44820.DESKTOP-H4C5U4M.4813.default
+17:06:37 *** Listening on default...
+17:06:37 Cleaning registries for queue: default
+17:06:37 Worker rq:worker:bbef3c7622354d10a0b7ca69c3fe8be5.DESKTOP-H4C5U4M.4811.short: started, version 1.8.1
+17:06:37 Subscribing to channel rq:pubsub:bbef3c7622354d10a0b7ca69c3fe8be5.DESKTOP-H4C5U4M.4811.short
+17:06:37 *** Listening on short...
+17:06:37 Cleaning registries for queue: short
+17:06:37 Worker rq:worker:acd1eba312c74bb6989cbcd2addad90a.DESKTOP-H4C5U4M.4817.long: started, version 1.8.1
+17:06:37 Subscribing to channel rq:pubsub:acd1eba312c74bb6989cbcd2addad90a.DESKTOP-H4C5U4M.4817.long
+17:06:37 *** Listening on long...
+17:06:37 Cleaning registries for queue: long
+17:07:16 Warm shut down requested
+17:07:16 Warm shut down requested
+17:07:16 Warm shut down requested
+17:07:16 Unsubscribing from channel rq:pubsub:bbef3c7622354d10a0b7ca69c3fe8be5.DESKTOP-H4C5U4M.4811.short
+17:07:16 Unsubscribing from channel rq:pubsub:f1fa991eb4a4462cb6c3163c63f44820.DESKTOP-H4C5U4M.4813.default
+17:07:16 Unsubscribing from channel rq:pubsub:acd1eba312c74bb6989cbcd2addad90a.DESKTOP-H4C5U4M.4817.long
+17:07:39 Worker rq:worker:4883eb7617a0477492c33ac5456a5db7.DESKTOP-H4C5U4M.4979.long: started, version 1.8.1
+17:07:39 Subscribing to channel rq:pubsub:4883eb7617a0477492c33ac5456a5db7.DESKTOP-H4C5U4M.4979.long
+17:07:39 *** Listening on long...
+17:07:39 Cleaning registries for queue: long
+17:07:39 Worker rq:worker:3e625fc6a1f442759641f297ecd0fd89.DESKTOP-H4C5U4M.4986.default: started, version 1.8.1
+17:07:39 Subscribing to channel rq:pubsub:3e625fc6a1f442759641f297ecd0fd89.DESKTOP-H4C5U4M.4986.default
+17:07:39 *** Listening on default...
+17:07:39 Cleaning registries for queue: default
+17:07:39 Worker rq:worker:04bd20e03e3a4285ad3c5ac39740b45a.DESKTOP-H4C5U4M.4977.short: started, version 1.8.1
+17:07:39 Subscribing to channel rq:pubsub:04bd20e03e3a4285ad3c5ac39740b45a.DESKTOP-H4C5U4M.4977.short
+17:07:39 *** Listening on short...
+17:07:39 Cleaning registries for queue: short
+17:08:34 Warm shut down requested
+17:08:34 Warm shut down requested
+17:08:34 Unsubscribing from channel rq:pubsub:4883eb7617a0477492c33ac5456a5db7.DESKTOP-H4C5U4M.4979.long
+17:08:34 Unsubscribing from channel rq:pubsub:04bd20e03e3a4285ad3c5ac39740b45a.DESKTOP-H4C5U4M.4977.short
+17:08:34 Warm shut down requested
+17:08:34 Unsubscribing from channel rq:pubsub:3e625fc6a1f442759641f297ecd0fd89.DESKTOP-H4C5U4M.4986.default
+17:10:32 Worker rq:worker:a5a739d4cf80491bb2c5024b3c53d3b4.DESKTOP-H4C5U4M.5161.default: started, version 1.8.1
+17:10:32 Subscribing to channel rq:pubsub:a5a739d4cf80491bb2c5024b3c53d3b4.DESKTOP-H4C5U4M.5161.default
+17:10:32 *** Listening on default...
+17:10:32 Cleaning registries for queue: default
+17:10:32 Worker rq:worker:8256b07b13884cd1a45cdeceea51f3f5.DESKTOP-H4C5U4M.5147.short: started, version 1.8.1
+17:10:32 Subscribing to channel rq:pubsub:8256b07b13884cd1a45cdeceea51f3f5.DESKTOP-H4C5U4M.5147.short
+17:10:32 *** Listening on short...
+17:10:32 Cleaning registries for queue: short
+17:10:32 Worker rq:worker:bab03ba5e10c4487b637621b483f59b5.DESKTOP-H4C5U4M.5164.long: started, version 1.8.1
+17:10:32 Subscribing to channel rq:pubsub:bab03ba5e10c4487b637621b483f59b5.DESKTOP-H4C5U4M.5164.long
+17:10:32 *** Listening on long...
+17:10:32 Cleaning registries for queue: long
+17:10:41 Warm shut down requested
+17:10:41 Warm shut down requested
+17:10:41 Warm shut down requested
+17:10:41 Unsubscribing from channel rq:pubsub:bab03ba5e10c4487b637621b483f59b5.DESKTOP-H4C5U4M.5164.long
+17:10:41 Unsubscribing from channel rq:pubsub:a5a739d4cf80491bb2c5024b3c53d3b4.DESKTOP-H4C5U4M.5161.default
+17:10:41 Unsubscribing from channel rq:pubsub:8256b07b13884cd1a45cdeceea51f3f5.DESKTOP-H4C5U4M.5147.short
+17:10:50 Worker rq:worker:7126db77d7f241b3aa820d90f2ac4f05.DESKTOP-H4C5U4M.5306.short: started, version 1.8.1
+17:10:50 Subscribing to channel rq:pubsub:7126db77d7f241b3aa820d90f2ac4f05.DESKTOP-H4C5U4M.5306.short
+17:10:50 *** Listening on short...
+17:10:50 Cleaning registries for queue: short
+17:10:50 Worker rq:worker:aaa3f9a123434baa9ac17d4a9b78c164.DESKTOP-H4C5U4M.5317.long: started, version 1.8.1
+17:10:50 Subscribing to channel rq:pubsub:aaa3f9a123434baa9ac17d4a9b78c164.DESKTOP-H4C5U4M.5317.long
+17:10:50 *** Listening on long...
+17:10:50 Cleaning registries for queue: long
+17:10:50 Worker rq:worker:07498faa3ab04c6eb00177917428472f.DESKTOP-H4C5U4M.5321.default: started, version 1.8.1
+17:10:50 Subscribing to channel rq:pubsub:07498faa3ab04c6eb00177917428472f.DESKTOP-H4C5U4M.5321.default
+17:10:50 *** Listening on default...
+17:10:50 Cleaning registries for queue: default
+17:10:56 Warm shut down requested
+17:10:56 Warm shut down requested
+17:10:56 Warm shut down requested
+17:10:56 Unsubscribing from channel rq:pubsub:7126db77d7f241b3aa820d90f2ac4f05.DESKTOP-H4C5U4M.5306.short
+17:10:56 Unsubscribing from channel rq:pubsub:aaa3f9a123434baa9ac17d4a9b78c164.DESKTOP-H4C5U4M.5317.long
+17:10:56 Unsubscribing from channel rq:pubsub:07498faa3ab04c6eb00177917428472f.DESKTOP-H4C5U4M.5321.default
+17:15:02 Worker rq:worker:87a92fb277d24c45b90c7ae83fd813d5.DESKTOP-H4C5U4M.6010.short: started, version 1.8.1
+17:15:02 Subscribing to channel rq:pubsub:87a92fb277d24c45b90c7ae83fd813d5.DESKTOP-H4C5U4M.6010.short
+17:15:02 *** Listening on short...
+17:15:02 Cleaning registries for queue: short
+17:15:02 Worker rq:worker:6e6de2d2a929449eb5ceab374966b22d.DESKTOP-H4C5U4M.6022.default: started, version 1.8.1
+17:15:02 Subscribing to channel rq:pubsub:6e6de2d2a929449eb5ceab374966b22d.DESKTOP-H4C5U4M.6022.default
+17:15:02 *** Listening on default...
+17:15:02 Cleaning registries for queue: default
+17:15:02 Worker rq:worker:e46f806025174c9e88adbaaa7cf1fe14.DESKTOP-H4C5U4M.6017.long: started, version 1.8.1
+17:15:02 Subscribing to channel rq:pubsub:e46f806025174c9e88adbaaa7cf1fe14.DESKTOP-H4C5U4M.6017.long
+17:15:02 *** Listening on long...
+17:15:02 Cleaning registries for queue: long
+17:19:33 Warm shut down requested
+17:19:33 Warm shut down requested
+17:19:33 Warm shut down requested
+17:19:33 Unsubscribing from channel rq:pubsub:6e6de2d2a929449eb5ceab374966b22d.DESKTOP-H4C5U4M.6022.default
+17:19:33 Unsubscribing from channel rq:pubsub:e46f806025174c9e88adbaaa7cf1fe14.DESKTOP-H4C5U4M.6017.long
+17:19:33 Unsubscribing from channel rq:pubsub:87a92fb277d24c45b90c7ae83fd813d5.DESKTOP-H4C5U4M.6010.short
+17:24:18 Worker rq:worker:3476918db7a94b6fb44da4bc1b6db095.DESKTOP-H4C5U4M.6217.short: started, version 1.8.1
+17:24:18 Subscribing to channel rq:pubsub:3476918db7a94b6fb44da4bc1b6db095.DESKTOP-H4C5U4M.6217.short
+17:24:18 *** Listening on short...
+17:24:18 Cleaning registries for queue: short
+17:24:18 Worker rq:worker:229c5435732347b28cdf2591c606a128.DESKTOP-H4C5U4M.6224.default: started, version 1.8.1
+17:24:18 Subscribing to channel rq:pubsub:229c5435732347b28cdf2591c606a128.DESKTOP-H4C5U4M.6224.default
+17:24:18 *** Listening on default...
+17:24:18 Cleaning registries for queue: default
+17:24:18 Worker rq:worker:703eec60c412401ba9ab132d58eea332.DESKTOP-H4C5U4M.6223.long: started, version 1.8.1
+17:24:18 Subscribing to channel rq:pubsub:703eec60c412401ba9ab132d58eea332.DESKTOP-H4C5U4M.6223.long
+17:24:18 *** Listening on long...
+17:24:18 Cleaning registries for queue: long
+17:29:07 Warm shut down requested
+17:29:07 Warm shut down requested
+17:29:07 Unsubscribing from channel rq:pubsub:703eec60c412401ba9ab132d58eea332.DESKTOP-H4C5U4M.6223.long
+17:29:07 Warm shut down requested
+17:29:07 Unsubscribing from channel rq:pubsub:229c5435732347b28cdf2591c606a128.DESKTOP-H4C5U4M.6224.default
+17:29:07 Unsubscribing from channel rq:pubsub:3476918db7a94b6fb44da4bc1b6db095.DESKTOP-H4C5U4M.6217.short
+17:36:31 Worker rq:worker:b566ea6347af4027b77778bccf679773.DESKTOP-H4C5U4M.6523.default: started, version 1.8.1
+17:36:31 Subscribing to channel rq:pubsub:b566ea6347af4027b77778bccf679773.DESKTOP-H4C5U4M.6523.default
+17:36:31 *** Listening on default...
+17:36:31 Cleaning registries for queue: default
+17:36:31 Worker rq:worker:e80e110d761a4d019902cd8ab5c3b5f9.DESKTOP-H4C5U4M.6520.short: started, version 1.8.1
+17:36:31 Worker rq:worker:4a70a72df24d4d3fa59f5902bf6c37d7.DESKTOP-H4C5U4M.6525.long: started, version 1.8.1
+17:36:31 Subscribing to channel rq:pubsub:e80e110d761a4d019902cd8ab5c3b5f9.DESKTOP-H4C5U4M.6520.short
+17:36:31 Subscribing to channel rq:pubsub:4a70a72df24d4d3fa59f5902bf6c37d7.DESKTOP-H4C5U4M.6525.long
+17:36:31 *** Listening on short...
+17:36:31 *** Listening on long...
+17:36:31 Cleaning registries for queue: short
+17:36:31 Cleaning registries for queue: long
+17:39:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6a2b35cc-9fd3-46de-87df-4a3738518e4e)
+17:39:36 default: Job OK (6a2b35cc-9fd3-46de-87df-4a3738518e4e)
+17:39:36 Result is kept for 600 seconds
+17:39:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (44fcb801-9d5c-4bf4-b711-66cff38f8553)
+17:39:39 default: Job OK (44fcb801-9d5c-4bf4-b711-66cff38f8553)
+17:39:39 Result is kept for 600 seconds
+17:39:43 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (4542d4c8-dfe4-496d-b0e5-52d1ab109f50)
+17:39:43 default: Job OK (4542d4c8-dfe4-496d-b0e5-52d1ab109f50)
+17:39:43 Result is kept for 600 seconds
+17:39:44 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (30e20bc1-fd04-4d7a-acff-6fb0b17c0482)
+17:39:44 default: Job OK (30e20bc1-fd04-4d7a-acff-6fb0b17c0482)
+17:39:44 Result is kept for 600 seconds
+17:39:46 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function update_index_for_path at 0x7faad50ffc10>', kwargs={'path': 'blog/general'}, method=<function update_index_for_path at 0x7faad50ffc10>, site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6ef9c6d7-3758-4877-80ca-ff481f5fc53e)
+17:39:47 default: Job OK (6ef9c6d7-3758-4877-80ca-ff481f5fc53e)
+17:39:47 Result is kept for 600 seconds
+17:39:47 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='<function update_index_for_path at 0x7faad50ffc10>', kwargs={'path': 'blog/general/welcome'}, method=<function update_index_for_path at 0x7faad50ffc10>, site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2f4d34f0-f79a-419a-a226-c4a708baabb6)
+17:39:48 default: Job OK (2f4d34f0-f79a-419a-a226-c4a708baabb6)
+17:39:48 Result is kept for 600 seconds
+17:40:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.employee.employee_reminders.send_reminders..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (9d90b5a6-8d93-4ba1-870b-f883f7ccc258)
+17:40:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.shift_type.shift_type.process_auto_attenda..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (78221b4b-82d4-487e-8c0d-33ab54ea19c1)
+17:40:32 long: Job OK (78221b4b-82d4-487e-8c0d-33ab54ea19c1)
+17:40:32 Result is kept for 600 seconds
+17:40:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.doctype.repost_item_valuation.repost_item_valua..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e3202e60-1838-43b1-b955-e778cdd46318)
+17:40:32 default: Job OK (9d90b5a6-8d93-4ba1-870b-f883f7ccc258)
+17:40:32 Result is kept for 600 seconds
+17:40:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.employee.employee_reminders.send_reminders..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (23973e5c-6a39-4ee4-950c-147773cce6af)
+17:40:32 default: Job OK (23973e5c-6a39-4ee4-950c-147773cce6af)
+17:40:32 Result is kept for 600 seconds
+17:40:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_daily_feedback_re..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (bda2f1e7-d60d-4e38-b002-1a222d36192a)
+17:40:32 long: Job OK (e3202e60-1838-43b1-b955-e778cdd46318)
+17:40:32 Result is kept for 600 seconds
+17:40:32 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.subscription.subscription.process_al..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f2bb57dd-7297-4aed-9f23-daa729f122cc)
+17:40:33 default: Job OK (bda2f1e7-d60d-4e38-b002-1a222d36192a)
+17:40:33 Result is kept for 600 seconds
+17:40:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.non_profit.doctype.membership.membership.set_expired_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (ab5047ab-b6e8-42f5-93bb-9375e5bb87af)
+17:40:33 long: Job OK (f2bb57dd-7297-4aed-9f23-daa729f122cc)
+17:40:33 Result is kept for 600 seconds
+17:40:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.process_loan_interest_accrual..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (158362bc-c5fb-4ce0-9d5a-0dd162fabd87)
+17:40:33 default: Job OK (ab5047ab-b6e8-42f5-93bb-9375e5bb87af)
+17:40:33 Result is kept for 600 seconds
+17:40:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.process_statement_of_accounts.proces..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d261a401-f4a4-4479-a1d2-7a19c22c284c)
+17:40:33 long: Job OK (158362bc-c5fb-4ce0-9d5a-0dd162fabd87)
+17:40:33 Result is kept for 600 seconds
+17:40:33 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.deferred_revenue.process_deferred_accounting..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (be85adba-64de-4d9a-9b4d-a1e3180067d7)
+17:40:33 default: Job OK (d261a401-f4a4-4479-a1d2-7a19c22c284c)
+17:40:33 Result is kept for 600 seconds
+17:40:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.buying.doctype.supplier_quotation.supplier_quotation...., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (0bb91ff8-123a-4773-9e86-b19d92c5389f)
+17:40:34 long: Job OK (be85adba-64de-4d9a-9b4d-a1e3180067d7)
+17:40:34 Result is kept for 600 seconds
+17:40:34 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.lead.lead.daily_open_lead'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a8a8276b-d161-474a-8762-4e929fe880da)
+17:40:34 default: Job OK (0bb91ff8-123a-4773-9e86-b19d92c5389f)
+17:40:34 Result is kept for 600 seconds
+17:40:34 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f43b07a5-4a8f-4778-baea-dfefef72421d)
+17:40:34 default: Job OK (f43b07a5-4a8f-4778-baea-dfefef72421d)
+17:40:34 Result is kept for 600 seconds
+17:40:34 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.selling.doctype.quotation.quotation.set_expired_statu..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (59b11956-24b8-45a8-9d18-2be5d2760cc6)
+17:40:34 long: Job OK (a8a8276b-d161-474a-8762-4e929fe880da)
+17:40:34 Result is kept for 600 seconds
+17:40:34 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.process_loan_interest_accrual..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7a09a92d-7041-4547-ace5-1fd361cfdc07)
+17:40:35 default: Job OK (59b11956-24b8-45a8-9d18-2be5d2760cc6)
+17:40:35 Result is kept for 600 seconds
+17:40:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.email_campaign.email_campaign.set_email_c..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d30a8955-c909-4c18-8163-4344bc2fa00b)
+17:40:35 long: Job OK (7a09a92d-7041-4547-ace5-1fd361cfdc07)
+17:40:35 Result is kept for 600 seconds
+17:40:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.loan_management.doctype.process_loan_security_shortfa..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (028eae9f-b343-4890-8a30-7e03101ae843)
+17:40:35 long: Job OK (028eae9f-b343-4890-8a30-7e03101ae843)
+17:40:35 Result is kept for 600 seconds
+17:40:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.allocate_earned_leaves'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (493a48d1-9233-4630-9caf-95a7dfc1d74b)
+17:40:35 default: Job OK (d30a8955-c909-4c18-8163-4344bc2fa00b)
+17:40:35 Result is kept for 600 seconds
+17:40:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.email_campaign.email_campaign.send_email_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (36bb8927-aeef-46be-b503-5171afeca716)
+17:40:35 long: Job OK (493a48d1-9233-4630-9caf-95a7dfc1d74b)
+17:40:35 Result is kept for 600 seconds
+17:40:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.utils.generate_leave_encashment'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (bccb9f24-0ec4-4e65-85b3-93c164526720)
+17:40:35 default: Job OK (36bb8927-aeef-46be-b503-5171afeca716)
+17:40:35 Result is kept for 600 seconds
+17:40:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.support.doctype.service_level_agreement.service_level..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (69f7d642-b8bc-420f-8059-e44ce7d9b29f)
+17:40:35 long: Job OK (bccb9f24-0ec4-4e65-85b3-93c164526720)
+17:40:35 Result is kept for 600 seconds
+17:40:35 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.leave_ledger_entry.leave_ledger_entry.proc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d09a7726-f09d-47b6-a70e-f6daa74d44e9)
+17:40:35 default: Job OK (69f7d642-b8bc-420f-8059-e44ce7d9b29f)
+17:40:35 Result is kept for 600 seconds
+17:40:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.quality_management.doctype.quality_review.quality_rev..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6bc05627-c0b1-427e-a543-66035f7e5f38)
+17:40:36 long: Job OK (d09a7726-f09d-47b6-a70e-f6daa74d44e9)
+17:40:36 Result is kept for 600 seconds
+17:40:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_tool.bom_update_tool..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6dd16178-9f1c-4ec3-a1cc-fc4950e621b2)
+17:40:36 default: Job OK (6bc05627-c0b1-427e-a543-66035f7e5f38)
+17:40:36 Result is kept for 600 seconds
+17:40:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.send_project_status_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (95d02da1-c827-4352-8e63-e41e9f57918b)
+17:40:36 long: Job OK (6dd16178-9f1c-4ec3-a1cc-fc4950e621b2)
+17:40:36 Result is kept for 600 seconds
+17:40:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.email_digest.email_digest.send'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b9a24417-f390-4701-863a-6a58dbae85a9)
+17:40:36 default: Job OK (95d02da1-c827-4352-8e63-e41e9f57918b)
+17:40:36 Result is kept for 600 seconds
+17:40:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.update_project_sales..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (28e0816d-eec8-4635-b1fe-ebf92eaadb10)
+17:40:36 long: Job OK (b9a24417-f390-4701-863a-6a58dbae85a9)
+17:40:36 Result is kept for 600 seconds
+17:40:36 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (427aabee-18a9-44fc-b397-4f97434d298d)
+17:40:37 default: Job OK (28e0816d-eec8-4635-b1fe-ebf92eaadb10)
+17:40:37 Result is kept for 600 seconds
+17:40:37 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.contract.contract.update_status_for_contr..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2bf407a6-8240-4daf-8231-7f7625fcb7b8)
+17:40:37 long: Job OK (427aabee-18a9-44fc-b397-4f97434d298d)
+17:40:37 Result is kept for 600 seconds
+17:40:37 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.weekly_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a2cf74b2-fa5c-480c-ab56-ef5267fc5a7f)
+17:40:37 default: Job OK (2bf407a6-8240-4daf-8231-7f7625fcb7b8)
+17:40:37 Result is kept for 600 seconds
+17:40:37 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.assets.doctype.asset.asset.make_post_gl_entry'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (14f02c3f-ceab-403d-b439-b95bf21bf5ae)
+17:40:37 long: Job OK (a2cf74b2-fa5c-480c-ab56-ef5267fc5a7f)
+17:40:37 Result is kept for 600 seconds
+17:40:37 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_log.energy_point_log.send_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (4503e552-809d-48ef-ba37-9c89cb198b6d)
+17:40:37 default: Job OK (14f02c3f-ceab-403d-b439-b95bf21bf5ae)
+17:40:37 Result is kept for 600 seconds
+17:40:37 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.assets.doctype.asset.asset.update_maintenance_status'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (9bc534f7-f2c8-44e9-b2c4-6ed56501eeb5)
+17:40:37 long: Job OK (4503e552-809d-48ef-ba37-9c89cb198b6d)
+17:40:37 Result is kept for 600 seconds
+17:40:37 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_weekly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (5b05476c-01a0-4f06-8a39-6b47b586b125)
+17:40:38 default: Job OK (9bc534f7-f2c8-44e9-b2c4-6ed56501eeb5)
+17:40:38 Result is kept for 600 seconds
+17:40:38 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.setup.doctype.company.company.cache_companies_monthly..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (39897573-9fbc-43fd-a943-6e494552d54f)
+17:40:38 long: Job OK (5b05476c-01a0-4f06-8a39-6b47b586b125)
+17:40:38 Result is kept for 600 seconds
+17:40:38 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.route_history.route_history.flush_old_rou..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (0b959936-bf5e-4c17-bf28-a7984a261b37)
+17:40:38 long: Job OK (0b959936-bf5e-4c17-bf28-a7984a261b37)
+17:40:38 Result is kept for 600 seconds
+17:40:38 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b0d4abe3-093a-4028-8eba-7db92783a9e9)
+17:40:38 default: Job OK (39897573-9fbc-43fd-a943-6e494552d54f)
+17:40:38 Result is kept for 600 seconds
+17:40:38 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.buying.doctype.supplier_scorecard.supplier_scorecard...., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (3a41cde0-49da-4839-8ece-09872f1d5687)
+17:40:38 default: Job OK (3a41cde0-49da-4839-8ece-09872f1d5687)
+17:40:38 Result is kept for 600 seconds
+17:40:38 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.doctype.serial_no.serial_no.update_maintenance_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f733af1c-9a92-4fed-a332-4be53003693b)
+17:40:38 long: Job OK (b0d4abe3-093a-4028-8eba-7db92783a9e9)
+17:40:38 Result is kept for 600 seconds
+17:40:38 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (11862c2c-73fe-405a-9f2c-1b2290ab97f2)
+17:40:39 default: Job OK (f733af1c-9a92-4fed-a332-4be53003693b)
+17:40:39 Result is kept for 600 seconds
+17:40:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.daily_work_summary_group.daily_work_summar..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (80989093-a84e-4b37-baa7-40dfb7fb9d8c)
+17:40:39 long: Job OK (11862c2c-73fe-405a-9f2c-1b2290ab97f2)
+17:40:39 Result is kept for 600 seconds
+17:40:39 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_drive.google_drive.daily_b..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6ed897e8-11b5-4001-adc3-5e794ae57a0e)
+17:40:39 default: Job OK (80989093-a84e-4b37-baa7-40dfb7fb9d8c)
+17:40:39 Result is kept for 600 seconds
+17:40:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.assets.doctype.asset.depreciation.post_depreciation_e..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (823ff4e2-ed31-497e-a491-03a6b78911a1)
+17:40:39 long: Job OK (6ed897e8-11b5-4001-adc3-5e794ae57a0e)
+17:40:39 Result is kept for 600 seconds
+17:40:39 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.auto_email_report.auto_email_report.send..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1633551a-b86c-4327-8d31-83998d8380a8)
+17:40:39 default: Job OK (823ff4e2-ed31-497e-a491-03a6b78911a1)
+17:40:39 Result is kept for 600 seconds
+17:40:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.task.task.set_tasks_as_overdue'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (3b41f8e6-6332-44a9-932e-20be7f922f0f)
+17:40:39 default: Job OK (3b41f8e6-6332-44a9-932e-20be7f922f0f)
+17:40:39 Result is kept for 600 seconds
+17:40:39 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.employee.employee_reminders.send_birthday_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2d77cb67-2c1b-4e0f-8bef-4e5a551274d0)
+17:40:40 long: Job OK (1633551a-b86c-4327-8d31-83998d8380a8)
+17:40:40 Result is kept for 600 seconds
+17:40:40 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.s3_backup_settings.s3_backup_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (3e05906f-4b30-467e-971f-46a4c08f7e5b)
+17:40:40 default: Job OK (2d77cb67-2c1b-4e0f-8bef-4e5a551274d0)
+17:40:40 Result is kept for 600 seconds
+17:40:40 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.employee.employee_reminders.send_work_anni..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f92599af-0092-47d5-851b-07729de966e1)
+17:40:40 long: Job OK (3e05906f-4b30-467e-971f-46a4c08f7e5b)
+17:40:40 Result is kept for 600 seconds
+17:40:40 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.change_log.check_for_update'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (fd423b2d-c044-491a-821f-4777f1c5eff7)
+17:40:40 default: Job OK (f92599af-0092-47d5-851b-07729de966e1)
+17:40:40 Result is kept for 600 seconds
+17:40:40 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a593cecf-4da9-4fac-b98a-5f9b5a22fec7)
+17:40:40 default: Job OK (a593cecf-4da9-4fac-b98a-5f9b5a22fec7)
+17:40:40 Result is kept for 600 seconds
+17:40:40 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.controllers.accounts_controller.update_invoice_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (051989b6-488d-4b52-a578-2a1671f1b822)
+17:40:41 default: Job OK (051989b6-488d-4b52-a578-2a1671f1b822)
+17:40:41 Result is kept for 600 seconds
+17:40:41 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.opportunity.opportunity.auto_close_opport..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (43b0fdfa-2ae5-4506-8601-95748566fab4)
+17:40:41 default: Job OK (43b0fdfa-2ae5-4506-8601-95748566fab4)
+17:40:41 Result is kept for 600 seconds
+17:40:41 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.support.doctype.issue.issue.auto_close_tickets'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f9281c86-1d16-48df-9bf8-87f987d285f6)
+17:40:41 default: Job OK (f9281c86-1d16-48df-9bf8-87f987d285f6)
+17:40:41 Result is kept for 600 seconds
+17:40:41 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.connectors.shopify_connection.sy..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (889d2808-b8f7-4f39-b591-b1637048ba57)
+17:40:41 long: Job OK (fd423b2d-c044-491a-821f-4777f1c5eff7)
+17:40:41 Result is kept for 600 seconds
+17:40:41 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.dropbox_settings.dropbox_settings..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (db6033f7-e1c3-4459-bece-918e5ec69377)
+17:40:42 default: Job OK (889d2808-b8f7-4f39-b591-b1637048ba57)
+17:40:42 Result is kept for 600 seconds
+17:40:42 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.support.doctype.issue.issue.set_service_level_agreeme..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (9dcf1da5-25c7-4ee7-af17-5ed7f8478f0f)
+17:40:42 long: Job OK (db6033f7-e1c3-4459-bece-918e5ec69377)
+17:40:42 Result is kept for 600 seconds
+17:40:42 default: Job OK (9dcf1da5-25c7-4ee7-af17-5ed7f8478f0f)
+17:40:42 Result is kept for 600 seconds
+17:40:42 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.collect_project_stat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d4d79895-8ab1-43c0-885e-65a766bea1dc)
+17:40:42 default: Job OK (d4d79895-8ab1-43c0-885e-65a766bea1dc)
+17:40:42 Result is kept for 600 seconds
+17:40:42 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.hourly_reminder'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1d00da8f-2486-43d0-a2f7-1c819cbe2117)
+17:40:43 default: Job OK (1d00da8f-2486-43d0-a2f7-1c819cbe2117)
+17:40:43 Result is kept for 600 seconds
+17:40:43 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.doctype.plaid_settings.plaid_set..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (49323018-572a-4f8b-a107-ed18fbc7b4cc)
+17:40:43 default: Job OK (49323018-572a-4f8b-a107-ed18fbc7b4cc)
+17:40:43 Result is kept for 600 seconds
+17:40:43 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.doctype.amazon_mws_settings.amaz..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (78633baf-5788-4805-8c7c-50bfe8b39609)
+17:40:43 default: Job OK (78633baf-5788-4805-8c7c-50bfe8b39609)
+17:40:43 Result is kept for 600 seconds
+17:40:43 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.daily_work_summary_group.daily_work_summar..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (fbc579ff-0ccd-423b-b924-99164896df5c)
+17:40:43 default: Job OK (fbc579ff-0ccd-423b-b924-99164896df5c)
+17:40:43 Result is kept for 600 seconds
+17:40:43 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (3475d5fc-de9f-43d3-ba4d-eba0a2944d99)
+17:40:44 default: Job OK (3475d5fc-de9f-43d3-ba4d-eba0a2944d99)
+17:40:44 Result is kept for 600 seconds
+17:40:44 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (0af6ba15-5959-4f7c-ab2a-2ac2a9c5cc12)
+17:40:44 default: Job OK (0af6ba15-5959-4f7c-ab2a-2ac2a9c5cc12)
+17:40:44 Result is kept for 600 seconds
+17:40:44 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (01381c95-85a0-4534-b7d1-0ee14a5ccee5)
+17:40:44 default: Job OK (01381c95-85a0-4534-b7d1-0ee14a5ccee5)
+17:40:44 Result is kept for 600 seconds
+17:40:44 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (789f149d-424c-4e89-b334-a0bef9349603)
+17:40:44 default: Job OK (789f149d-424c-4e89-b334-a0bef9349603)
+17:40:44 Result is kept for 600 seconds
+17:40:44 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.reorder_item.reorder_item'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b3d14179-481f-4b54-9e93-a79e1fd4d834)
+17:40:45 default: Job OK (b3d14179-481f-4b54-9e93-a79e1fd4d834)
+17:40:45 Result is kept for 600 seconds
+17:40:45 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_doc..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (85e0a9b5-5d25-4637-9038-596ca716e2ff)
+17:40:45 default: Job OK (85e0a9b5-5d25-4637-9038-596ca716e2ff)
+17:40:45 Result is kept for 600 seconds
+17:40:45 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.utilities.doctype.video.video.update_youtube_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f6b67b54-ea98-4f53-98f8-702d0cad080d)
+17:40:45 default: Job OK (f6b67b54-ea98-4f53-98f8-702d0cad080d)
+17:40:45 Result is kept for 600 seconds
+17:40:45 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b4d33778-cae8-43c0-b8e8-41d30cc0f959)
+17:40:46 default: Job OK (b4d33778-cae8-43c0-b8e8-41d30cc0f959)
+17:40:46 Result is kept for 600 seconds
+17:40:46 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_log.energy_point_log.send_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d42b484a-b895-49d6-b543-071a6ce03d94)
+17:40:46 default: Job OK (d42b484a-b895-49d6-b543-071a6ce03d94)
+17:40:46 Result is kept for 600 seconds
+17:40:46 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.auto_email_report.auto_email_report.send..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (8b486d93-eebe-474a-9abb-bf34cf52e65a)
+17:40:46 default: Job OK (8b486d93-eebe-474a-9abb-bf34cf52e65a)
+17:40:46 Result is kept for 600 seconds
+17:40:46 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.log_settings.log_settings.run_log_clean_u..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e9531d14-da96-483d-8e43-fd92445918cc)
+17:40:47 default: Job OK (e9531d14-da96-483d-8e43-fd92445918cc)
+17:40:47 Result is kept for 600 seconds
+17:40:47 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.prepared_report.prepared_report.delete_ex..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (4f9b8767-90c9-439d-9c9c-da88d91956af)
+17:40:47 default: Job OK (4f9b8767-90c9-439d-9c9c-da88d91956af)
+17:40:47 Result is kept for 600 seconds
+17:40:47 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.unhandled_email.unhandled_email.remove_o..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (c0ed8e26-eb2e-4bcd-8e6f-ca8a9dc318cf)
+17:40:47 default: Job OK (c0ed8e26-eb2e-4bcd-8e6f-ca8a9dc318cf)
+17:40:47 Result is kept for 600 seconds
+17:40:47 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_re..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (9d1e9ac8-b59d-4ccb-ab5f-3ed8ad7c858c)
+17:40:47 default: Job OK (9d1e9ac8-b59d-4ccb-ab5f-3ed8ad7c858c)
+17:40:47 Result is kept for 600 seconds
+17:40:47 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f7fd75f5-8921-4bfd-8356-eb49e49bb298)
+17:40:48 default: Job OK (f7fd75f5-8921-4bfd-8356-eb49e49bb298)
+17:40:48 Result is kept for 600 seconds
+17:40:48 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_contacts.google_contacts.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (4a6244af-267a-4b15-bbdb-7172a830a9b4)
+17:40:48 default: Job OK (4a6244af-267a-4b15-bbdb-7172a830a9b4)
+17:40:48 Result is kept for 600 seconds
+17:40:48 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.social.doctype.energy_point_settings.energy_point_sett..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (ae16ac42-cffe-463a-a9f4-140c409e1795)
+17:40:48 default: Job OK (ae16ac42-cffe-463a-a9f4-140c409e1795)
+17:40:48 Result is kept for 600 seconds
+17:40:48 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_daily_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f18cc66b-973b-4dca-9c9d-5471d874d5a7)
+17:40:49 default: Job OK (f18cc66b-973b-4dca-9c9d-5471d874d5a7)
+17:40:49 Result is kept for 600 seconds
+17:40:49 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.personal_data_deletion_request.persona..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (8b1548c9-d89c-49af-b591-3686e36ebaa1)
+17:40:49 default: Job OK (8b1548c9-d89c-49af-b591-3686e36ebaa1)
+17:40:49 Result is kept for 600 seconds
+17:40:49 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.scheduler.restrict_scheduler_events_if_dormant'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1c20334a-6f6e-4df8-ac1a-b651d4102d06)
+17:40:49 default: Job OK (1c20334a-6f6e-4df8-ac1a-b651d4102d06)
+17:40:49 Result is kept for 600 seconds
+17:40:49 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.notification.notification.trigger_daily_..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (17bafa3a-4e0d-49c3-af06-a7b20f6179e8)
+17:40:49 default: Job OK (17bafa3a-4e0d-49c3-af06-a7b20f6179e8)
+17:40:49 Result is kept for 600 seconds
+17:40:49 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.sessions.clear_expired_sessions'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (fae4bae3-f29b-4285-9775-c79a2dbff3ba)
+17:40:50 default: Job OK (fae4bae3-f29b-4285-9775-c79a2dbff3ba)
+17:40:50 Result is kept for 600 seconds
+17:40:50 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.doctype.event.event.send_event_digest'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b1762dcd-7847-4eaf-b842-8580369fb44e)
+17:40:50 default: Job OK (b1762dcd-7847-4eaf-b842-8580369fb44e)
+17:40:50 Result is kept for 600 seconds
+17:40:50 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.core.doctype.error_log.error_log.set_old_logs_as_seen'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (fa2edc82-eabb-4173-aa59-44bf94f07ddb)
+17:40:50 default: Job OK (fa2edc82-eabb-4173-aa59-44bf94f07ddb)
+17:40:50 Result is kept for 600 seconds
+17:40:50 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.notifications.clear_notifications'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (bd2e0c6a-9bc8-449d-b506-9c3fc118637c)
+17:40:50 default: Job OK (bd2e0c6a-9bc8-449d-b506-9c3fc118637c)
+17:40:50 Result is kept for 600 seconds
+17:40:50 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.set_expiry_for_email_queue'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (65247c22-b257-4e4a-9f89-04a80f3773c9)
+17:40:51 default: Job OK (65247c22-b257-4e4a-9f89-04a80f3773c9)
+17:40:51 Result is kept for 600 seconds
+17:40:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.newsletter.newsletter.send_scheduled_ema..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (61ab035e-0bfb-4cdc-8148-88c24ee7b9f1)
+17:40:51 default: Job OK (61ab035e-0bfb-4cdc-8148-88c24ee7b9f1)
+17:40:51 Result is kept for 600 seconds
+17:40:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2f4989c8-02bd-4117-bec9-34d9f98525f9)
+17:40:51 default: Job OK (2f4989c8-02bd-4117-bec9-34d9f98525f9)
+17:40:51 Result is kept for 600 seconds
+17:40:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_hourly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (68e47803-3653-4ea4-a5bc-b29553a36d49)
+17:40:51 default: Job OK (68e47803-3653-4ea4-a5bc-b29553a36d49)
+17:40:51 Result is kept for 600 seconds
+17:40:51 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (fcbb196c-fc7c-4d52-81f6-0a3086ad677f)
+17:40:52 default: Job OK (fcbb196c-fc7c-4d52-81f6-0a3086ad677f)
+17:40:52 Result is kept for 600 seconds
+17:40:52 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.page.backups.backups.delete_downloadable_backups'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (fe6b15a7-ed36-4f86-9abb-ecabe743ab73)
+17:40:52 default: Job OK (fe6b15a7-ed36-4f86-9abb-ecabe743ab73)
+17:40:52 Result is kept for 600 seconds
+17:40:52 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.error.collect_error_snapshots'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (35ed9a11-eac9-4d12-b298-f084baefdd35)
+17:40:52 default: Job OK (35ed9a11-eac9-4d12-b298-f084baefdd35)
+17:40:52 Result is kept for 600 seconds
+17:40:52 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.user_settings.sync_user_settings'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e81694fa-3443-41fe-81c8-64ac018029d8)
+17:40:52 default: Job OK (e81694fa-3443-41fe-81c8-64ac018029d8)
+17:40:52 Result is kept for 600 seconds
+17:40:52 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a5edfa8a-d121-42cc-bf24-2c0a55339127)
+17:40:55 default: Job OK (a5edfa8a-d121-42cc-bf24-2c0a55339127)
+17:40:55 Result is kept for 600 seconds
+17:40:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (756d5214-d268-4724-919c-2367284229c6)
+17:40:55 default: Job OK (756d5214-d268-4724-919c-2367284229c6)
+17:40:55 Result is kept for 600 seconds
+17:40:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (4ea8121c-89c8-41b8-ae74-b445e29dd384)
+17:40:55 default: Job OK (4ea8121c-89c8-41b8-ae74-b445e29dd384)
+17:40:55 Result is kept for 600 seconds
+17:40:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a331b2e9-dd07-4fca-b8a6-f8e30d48b9ec)
+17:40:55 default: Job OK (a331b2e9-dd07-4fca-b8a6-f8e30d48b9ec)
+17:40:55 Result is kept for 600 seconds
+17:40:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f01ed26d-7104-4a81-b4d7-2b719ee5f87e)
+17:40:56 default: Job OK (f01ed26d-7104-4a81-b4d7-2b719ee5f87e)
+17:40:56 Result is kept for 600 seconds
+17:40:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (44052886-db7a-47bc-90bf-9f4531e7cf14)
+17:40:56 default: Job OK (44052886-db7a-47bc-90bf-9f4531e7cf14)
+17:40:56 Result is kept for 600 seconds
+17:40:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (5a9ad199-3aa2-4294-a8bd-eb71b7adca5a)
+17:40:56 default: Job OK (5a9ad199-3aa2-4294-a8bd-eb71b7adca5a)
+17:40:56 Result is kept for 600 seconds
+17:40:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (86077d18-c809-45bb-a2d6-f06268c032c8)
+17:40:56 default: Job OK (86077d18-c809-45bb-a2d6-f06268c032c8)
+17:40:56 Result is kept for 600 seconds
+17:40:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (5cd5b6c1-a5e6-407b-89c0-6b429c6161ef)
+17:40:57 default: Job OK (5cd5b6c1-a5e6-407b-89c0-6b429c6161ef)
+17:40:57 Result is kept for 600 seconds
+17:40:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (c23fa7b4-b042-4df2-ae87-927c2ff6ef8a)
+17:40:57 default: Job OK (c23fa7b4-b042-4df2-ae87-927c2ff6ef8a)
+17:40:57 Result is kept for 600 seconds
+17:40:57 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', kwargs={'data': []}, method='frappe.automation.doctype.auto_repeat.auto_repeat.create_repeated_entries', site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7a5fda69-c86a-41c9-9025-da1724090ad3)
+17:40:57 default: Job OK (7a5fda69-c86a-41c9-9025-da1724090ad3)
+17:40:57 Result is kept for 600 seconds
+17:44:34 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2f5ecbdb-32c2-4e8b-bdcd-b39eb3f6ca7e)
+17:44:34 default: Job OK (2f5ecbdb-32c2-4e8b-bdcd-b39eb3f6ca7e)
+17:44:34 Result is kept for 600 seconds
+17:44:34 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (5b998903-5c21-42bd-b5de-9862a008dc84)
+17:44:35 default: Job OK (5b998903-5c21-42bd-b5de-9862a008dc84)
+17:44:35 Result is kept for 600 seconds
+17:44:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (0a6fabf4-20f9-44b7-ae5d-26268651e5a3)
+17:44:35 default: Job OK (0a6fabf4-20f9-44b7-ae5d-26268651e5a3)
+17:44:35 Result is kept for 600 seconds
+17:44:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2936f276-0b33-42cc-835b-384792c15f4c)
+17:44:35 default: Job OK (2936f276-0b33-42cc-835b-384792c15f4c)
+17:44:35 Result is kept for 600 seconds
+17:44:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (cde6e641-5488-43d7-97b0-7d141ddcadb9)
+17:44:35 default: Job OK (cde6e641-5488-43d7-97b0-7d141ddcadb9)
+17:44:35 Result is kept for 600 seconds
+17:44:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (49e5ba69-d970-4952-83ac-2e366a43c38a)
+17:44:35 default: Job OK (49e5ba69-d970-4952-83ac-2e366a43c38a)
+17:44:35 Result is kept for 600 seconds
+17:44:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e753309d-4486-42a1-9e3c-aea50fda84dc)
+17:44:36 default: Job OK (e753309d-4486-42a1-9e3c-aea50fda84dc)
+17:44:36 Result is kept for 600 seconds
+17:44:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (58430e97-6347-4ad3-912a-96deeff94e51)
+17:44:36 default: Job OK (58430e97-6347-4ad3-912a-96deeff94e51)
+17:44:36 Result is kept for 600 seconds
+17:44:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (cc1be131-646c-487a-9f9f-277ccd7b351e)
+17:44:36 default: Job OK (cc1be131-646c-487a-9f9f-277ccd7b351e)
+17:44:36 Result is kept for 600 seconds
+17:44:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (23582e8b-718e-4af5-a8e5-f75d83e1bad7)
+17:44:36 default: Job OK (23582e8b-718e-4af5-a8e5-f75d83e1bad7)
+17:44:36 Result is kept for 600 seconds
+17:45:34 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1d72b94e-5045-4ac8-8a03-17918c9f06b3)
+17:45:35 default: Job OK (1d72b94e-5045-4ac8-8a03-17918c9f06b3)
+17:45:35 Result is kept for 600 seconds
+17:45:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a7cb58cf-e652-46c5-81e6-1d7e86c2a536)
+17:45:35 default: Job OK (a7cb58cf-e652-46c5-81e6-1d7e86c2a536)
+17:45:35 Result is kept for 600 seconds
+17:45:35 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d4b73192-f854-4b88-83f0-a8cc7a8a0d45)
+17:45:36 default: Job OK (d4b73192-f854-4b88-83f0-a8cc7a8a0d45)
+17:45:36 Result is kept for 600 seconds
+17:45:36 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7c7aaec5-09f8-4784-ab3d-05328f9ccf27)
+17:45:36 default: Job OK (7c7aaec5-09f8-4784-ab3d-05328f9ccf27)
+17:45:36 Result is kept for 600 seconds
+17:46:15 Warm shut down requested
+17:46:15 Warm shut down requested
+17:46:15 Warm shut down requested
+17:46:15 Unsubscribing from channel rq:pubsub:4a70a72df24d4d3fa59f5902bf6c37d7.DESKTOP-H4C5U4M.6525.long
+17:46:15 Unsubscribing from channel rq:pubsub:b566ea6347af4027b77778bccf679773.DESKTOP-H4C5U4M.6523.default
+17:46:15 Unsubscribing from channel rq:pubsub:e80e110d761a4d019902cd8ab5c3b5f9.DESKTOP-H4C5U4M.6520.short
+17:47:18 Worker rq:worker:3da3b1250ad8499bb53cd2e4d7b86dc1.DESKTOP-H4C5U4M.7137.default: started, version 1.8.1
+17:47:18 Subscribing to channel rq:pubsub:3da3b1250ad8499bb53cd2e4d7b86dc1.DESKTOP-H4C5U4M.7137.default
+17:47:18 *** Listening on default...
+17:47:18 Cleaning registries for queue: default
+17:47:18 Worker rq:worker:7a9c385d7ca34063b071c382cc958664.DESKTOP-H4C5U4M.7131.long: started, version 1.8.1
+17:47:18 Subscribing to channel rq:pubsub:7a9c385d7ca34063b071c382cc958664.DESKTOP-H4C5U4M.7131.long
+17:47:18 *** Listening on long...
+17:47:18 Cleaning registries for queue: long
+17:47:18 Worker rq:worker:4bb5181a895e4db2a1bbce6f4160a001.DESKTOP-H4C5U4M.7124.short: started, version 1.8.1
+17:47:18 Subscribing to channel rq:pubsub:4bb5181a895e4db2a1bbce6f4160a001.DESKTOP-H4C5U4M.7124.short
+17:47:18 *** Listening on short...
+17:47:18 Cleaning registries for queue: short
+17:48:18 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (c3c8f9bd-795e-4d5d-81b7-c4c9c5079cdd)
+17:48:18 default: Job OK (c3c8f9bd-795e-4d5d-81b7-c4c9c5079cdd)
+17:48:18 Result is kept for 600 seconds
+17:48:18 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (26d4c783-5080-4377-9b54-e0a5e954637b)
+17:48:19 default: Job OK (26d4c783-5080-4377-9b54-e0a5e954637b)
+17:48:19 Result is kept for 600 seconds
+17:48:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (ecd47232-6ef5-490e-b8ee-307eaaf15651)
+17:48:19 default: Job OK (ecd47232-6ef5-490e-b8ee-307eaaf15651)
+17:48:19 Result is kept for 600 seconds
+17:48:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (df20479d-4459-416e-8f57-9f670bbdedc2)
+17:48:19 default: Job OK (df20479d-4459-416e-8f57-9f670bbdedc2)
+17:48:19 Result is kept for 600 seconds
+17:48:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (19c8d985-d4fb-4944-b913-2c08ebacfdf1)
+17:48:19 default: Job OK (19c8d985-d4fb-4944-b913-2c08ebacfdf1)
+17:48:19 Result is kept for 600 seconds
+17:48:19 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7075e866-44db-46d2-b499-6993c554ba8c)
+17:48:20 default: Job OK (7075e866-44db-46d2-b499-6993c554ba8c)
+17:48:20 Result is kept for 600 seconds
+17:48:20 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f226a087-9945-42ac-87ea-49818b4c4dac)
+17:48:20 default: Job OK (f226a087-9945-42ac-87ea-49818b4c4dac)
+17:48:20 Result is kept for 600 seconds
+17:48:20 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (62b6c773-8d93-4e29-8d5d-f8e8b62cf275)
+17:48:20 default: Job OK (62b6c773-8d93-4e29-8d5d-f8e8b62cf275)
+17:48:20 Result is kept for 600 seconds
+17:48:20 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d6556f3a-d077-411f-b1f6-a77edd84a4dc)
+17:48:20 default: Job OK (d6556f3a-d077-411f-b1f6-a77edd84a4dc)
+17:48:20 Result is kept for 600 seconds
+17:48:20 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (c8f31785-2997-4cc8-b0e6-9804a5187aac)
+17:48:21 default: Job OK (c8f31785-2997-4cc8-b0e6-9804a5187aac)
+17:48:21 Result is kept for 600 seconds
+17:49:50 Warm shut down requested
+17:49:50 Warm shut down requested
+17:49:50 Warm shut down requested
+17:49:50 Unsubscribing from channel rq:pubsub:4bb5181a895e4db2a1bbce6f4160a001.DESKTOP-H4C5U4M.7124.short
+17:49:50 Unsubscribing from channel rq:pubsub:3da3b1250ad8499bb53cd2e4d7b86dc1.DESKTOP-H4C5U4M.7137.default
+17:49:50 Unsubscribing from channel rq:pubsub:7a9c385d7ca34063b071c382cc958664.DESKTOP-H4C5U4M.7131.long
+17:50:20 Worker rq:worker:bad2c0e4d45f493d9668a4772a3de466.DESKTOP-H4C5U4M.7438.long: started, version 1.8.1
+17:50:20 Subscribing to channel rq:pubsub:bad2c0e4d45f493d9668a4772a3de466.DESKTOP-H4C5U4M.7438.long
+17:50:20 *** Listening on long...
+17:50:20 Cleaning registries for queue: long
+17:50:20 Worker rq:worker:ecee5feed9a04b4cb87d6ef039fb0a37.DESKTOP-H4C5U4M.7446.default: started, version 1.8.1
+17:50:20 Subscribing to channel rq:pubsub:ecee5feed9a04b4cb87d6ef039fb0a37.DESKTOP-H4C5U4M.7446.default
+17:50:20 *** Listening on default...
+17:50:20 Cleaning registries for queue: default
+17:50:20 Worker rq:worker:414b40180b5b431398db86839878e15c.DESKTOP-H4C5U4M.7434.short: started, version 1.8.1
+17:50:20 Subscribing to channel rq:pubsub:414b40180b5b431398db86839878e15c.DESKTOP-H4C5U4M.7434.short
+17:50:20 *** Listening on short...
+17:50:20 Cleaning registries for queue: short
+17:51:21 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1a36ae40-1d09-4770-9a30-097b731b685a)
+17:51:21 default: Job OK (1a36ae40-1d09-4770-9a30-097b731b685a)
+17:51:21 Result is kept for 600 seconds
+17:52:21 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7b907489-a1da-4173-bba7-df8493122fb0)
+17:52:21 default: Job OK (7b907489-a1da-4173-bba7-df8493122fb0)
+17:52:21 Result is kept for 600 seconds
+17:52:21 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (dd45e4c4-d4b0-42b7-bac5-d09b600a1c37)
+17:52:22 default: Job OK (dd45e4c4-d4b0-42b7-bac5-d09b600a1c37)
+17:52:22 Result is kept for 600 seconds
+17:52:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1e1611f5-0d7d-49e2-bb09-1be88ed3bfb3)
+17:52:22 default: Job OK (1e1611f5-0d7d-49e2-bb09-1be88ed3bfb3)
+17:52:22 Result is kept for 600 seconds
+17:52:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (834ddda7-2abf-4739-ae41-69c2a3824eb0)
+17:52:22 default: Job OK (834ddda7-2abf-4739-ae41-69c2a3824eb0)
+17:52:22 Result is kept for 600 seconds
+17:52:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d0671d39-16cb-4e31-902f-4f785e21aff7)
+17:52:22 default: Job OK (d0671d39-16cb-4e31-902f-4f785e21aff7)
+17:52:22 Result is kept for 600 seconds
+17:52:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (39d838b0-1dbc-4163-b8a7-ad43f207c3bf)
+17:52:23 default: Job OK (39d838b0-1dbc-4163-b8a7-ad43f207c3bf)
+17:52:23 Result is kept for 600 seconds
+17:52:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (5b057cb7-9865-480d-b58a-87873ad1049f)
+17:52:23 default: Job OK (5b057cb7-9865-480d-b58a-87873ad1049f)
+17:52:23 Result is kept for 600 seconds
+17:52:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (35a6f3cd-d6ea-40ce-a4c3-5dc241fc2e47)
+17:52:23 default: Job OK (35a6f3cd-d6ea-40ce-a4c3-5dc241fc2e47)
+17:52:23 Result is kept for 600 seconds
+17:52:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (4c1c610b-5c60-4e85-be77-24f7c67b3af9)
+17:52:23 default: Job OK (4c1c610b-5c60-4e85-be77-24f7c67b3af9)
+17:52:23 Result is kept for 600 seconds
+17:52:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2ddf0ac2-410b-4bf9-a484-679da9aeacfa)
+17:52:23 default: Job OK (2ddf0ac2-410b-4bf9-a484-679da9aeacfa)
+17:52:23 Result is kept for 600 seconds
+17:55:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b936ce24-a93f-4825-932e-a7974992c7e5)
+17:55:22 default: Job OK (b936ce24-a93f-4825-932e-a7974992c7e5)
+17:55:22 Result is kept for 600 seconds
+17:56:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (69207aa9-8b03-4e55-a7b2-adce31f732f0)
+17:56:22 default: Job OK (69207aa9-8b03-4e55-a7b2-adce31f732f0)
+17:56:22 Result is kept for 600 seconds
+17:56:22 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (862d557d-1633-4042-b0ed-3b888fc77bac)
+17:56:22 default: Job OK (862d557d-1633-4042-b0ed-3b888fc77bac)
+17:56:22 Result is kept for 600 seconds
+17:56:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d95512ef-0d9a-4ace-9735-6d08f0ef7c23)
+17:56:23 default: Job OK (d95512ef-0d9a-4ace-9735-6d08f0ef7c23)
+17:56:23 Result is kept for 600 seconds
+17:56:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (0035fc21-4c3c-4396-ae07-b782b684d818)
+17:56:23 default: Job OK (0035fc21-4c3c-4396-ae07-b782b684d818)
+17:56:23 Result is kept for 600 seconds
+17:56:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7b38bf12-d531-49ef-8f20-d31fbfb4b4de)
+17:56:23 default: Job OK (7b38bf12-d531-49ef-8f20-d31fbfb4b4de)
+17:56:23 Result is kept for 600 seconds
+17:56:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (31fad17f-929a-432d-bf28-81ba2ce5d1ad)
+17:56:23 default: Job OK (31fad17f-929a-432d-bf28-81ba2ce5d1ad)
+17:56:23 Result is kept for 600 seconds
+17:56:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1d4b91ac-828b-4fcc-96e3-a2b4dd3e89fe)
+17:56:24 default: Job OK (1d4b91ac-828b-4fcc-96e3-a2b4dd3e89fe)
+17:56:24 Result is kept for 600 seconds
+17:56:24 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f7ee4b74-3b9b-4d4e-b33a-2719c5904fba)
+17:56:24 default: Job OK (f7ee4b74-3b9b-4d4e-b33a-2719c5904fba)
+17:56:24 Result is kept for 600 seconds
+17:56:24 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (98640c11-fc79-46ee-8c1e-bb5ad7816dcf)
+17:56:24 default: Job OK (98640c11-fc79-46ee-8c1e-bb5ad7816dcf)
+17:56:24 Result is kept for 600 seconds
+17:56:24 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b6b4a623-e6fa-48a1-82b9-05ae0580745e)
+17:56:24 default: Job OK (b6b4a623-e6fa-48a1-82b9-05ae0580745e)
+17:56:24 Result is kept for 600 seconds
+18:00:23 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.shift_type.shift_type.process_auto_attenda..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2e54b968-5719-4dc7-b118-8d7846aad03e)
+18:00:23 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.connectors.shopify_connection.sy..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (cecc63ec-58bb-41e5-8f5e-082774e353fa)
+18:00:24 long: Job OK (2e54b968-5719-4dc7-b118-8d7846aad03e)
+18:00:24 Result is kept for 600 seconds
+18:00:24 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.stock.doctype.repost_item_valuation.repost_item_valua..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e8012fe9-9f07-4bbd-99a1-24e54e84fbf7)
+18:00:24 default: Job OK (cecc63ec-58bb-41e5-8f5e-082774e353fa)
+18:00:24 Result is kept for 600 seconds
+18:00:24 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.support.doctype.issue.issue.set_service_level_agreeme..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1a90d1ec-8c1e-488d-8697-f234dbd5f24b)
+18:00:24 long: Job OK (e8012fe9-9f07-4bbd-99a1-24e54e84fbf7)
+18:00:24 Result is kept for 600 seconds
+18:00:24 long: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.accounts.doctype.subscription.subscription.process_al..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b0cdc5aa-3677-4f66-bd97-45e7fe002df4)
+18:00:24 default: Job OK (1a90d1ec-8c1e-488d-8697-f234dbd5f24b)
+18:00:24 Result is kept for 600 seconds
+18:00:24 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.collect_project_stat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2adebbeb-8c27-4ba8-b4fd-8c2b9ff1bab5)
+18:00:24 long: Job OK (b0cdc5aa-3677-4f66-bd97-45e7fe002df4)
+18:00:24 Result is kept for 600 seconds
+18:00:24 default: Job OK (2adebbeb-8c27-4ba8-b4fd-8c2b9ff1bab5)
+18:00:24 Result is kept for 600 seconds
+18:00:24 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.hourly_reminder'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (45b90e8d-e879-4e5d-b844-92347491eb85)
+18:00:25 default: Job OK (45b90e8d-e879-4e5d-b844-92347491eb85)
+18:00:25 Result is kept for 600 seconds
+18:00:25 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.doctype.plaid_settings.plaid_set..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (5ca1cb87-96b9-4e75-944e-e94d4cc2d6b4)
+18:00:25 default: Job OK (5ca1cb87-96b9-4e75-944e-e94d4cc2d6b4)
+18:00:25 Result is kept for 600 seconds
+18:00:25 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.erpnext_integrations.doctype.amazon_mws_settings.amaz..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a15fe0ec-94f3-4fd5-b179-d47b3db37001)
+18:00:26 default: Job OK (a15fe0ec-94f3-4fd5-b179-d47b3db37001)
+18:00:26 Result is kept for 600 seconds
+18:00:26 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.daily_work_summary_group.daily_work_summar..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (37d1fc21-bf9c-447a-b7fb-cc55c29b55db)
+18:00:26 default: Job OK (37d1fc21-bf9c-447a-b7fb-cc55c29b55db)
+18:00:26 Result is kept for 600 seconds
+18:00:26 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7361c19f-fddf-46a1-9f60-dae037076ed5)
+18:00:26 default: Job OK (7361c19f-fddf-46a1-9f60-dae037076ed5)
+18:00:26 Result is kept for 600 seconds
+18:00:26 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (30f03f9a-1c8e-4e30-8f63-685a4df54c54)
+18:00:26 default: Job OK (30f03f9a-1c8e-4e30-8f63-685a4df54c54)
+18:00:26 Result is kept for 600 seconds
+18:00:26 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (ba170fee-1185-4e74-9377-a880684ea5d9)
+18:00:27 default: Job OK (ba170fee-1185-4e74-9377-a880684ea5d9)
+18:00:27 Result is kept for 600 seconds
+18:00:27 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d4c9f090-3847-493b-8ea4-09aab855316c)
+18:00:27 default: Job OK (d4c9f090-3847-493b-8ea4-09aab855316c)
+18:00:27 Result is kept for 600 seconds
+18:00:27 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.utilities.doctype.video.video.update_youtube_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (3ba94634-e271-4556-8c66-1645929a9737)
+18:00:27 default: Job OK (3ba94634-e271-4556-8c66-1645929a9737)
+18:00:27 Result is kept for 600 seconds
+18:00:27 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (28e021e1-6108-4c14-9e00-39132ce01c71)
+18:00:28 default: Job OK (28e021e1-6108-4c14-9e00-39132ce01c71)
+18:00:28 Result is kept for 600 seconds
+18:00:28 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.newsletter.newsletter.send_scheduled_ema..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (dcf7f941-f27d-4b90-b233-13c015178388)
+18:00:28 default: Job OK (dcf7f941-f27d-4b90-b233-13c015178388)
+18:00:28 Result is kept for 600 seconds
+18:00:28 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.google_calendar.google_calendar.s..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1a6444bb-c259-472b-8ede-9399ba4d5f4d)
+18:00:28 default: Job OK (1a6444bb-c259-472b-8ede-9399ba4d5f4d)
+18:00:28 Result is kept for 600 seconds
+18:00:28 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.form.document_follow.send_hourly_updates'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (99d199ed-eb4c-4afd-b719-1dd156ef65cd)
+18:00:29 default: Job OK (99d199ed-eb4c-4afd-b719-1dd156ef65cd)
+18:00:29 Result is kept for 600 seconds
+18:00:29 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.deferred_insert.save_to_db'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (258e1b2f-b6ae-451e-a4e3-1f392483e315)
+18:00:29 default: Job OK (258e1b2f-b6ae-451e-a4e3-1f392483e315)
+18:00:29 Result is kept for 600 seconds
+18:00:29 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.desk.page.backups.backups.delete_downloadable_backups'..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e1cd3787-2077-4774-a0f9-a3f1bf733a5c)
+18:00:29 default: Job OK (e1cd3787-2077-4774-a0f9-a3f1bf733a5c)
+18:00:29 Result is kept for 600 seconds
+18:00:29 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.error.collect_error_snapshots'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e3caa294-32cb-4a62-be8b-06a639095e2f)
+18:00:30 default: Job OK (e3caa294-32cb-4a62-be8b-06a639095e2f)
+18:00:30 Result is kept for 600 seconds
+18:00:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.user_settings.sync_user_settings'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (bca9a585-82a5-4dbb-9f05-bca6aa598686)
+18:00:30 default: Job OK (bca9a585-82a5-4dbb-9f05-bca6aa598686)
+18:00:30 Result is kept for 600 seconds
+18:00:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.model.utils.link_count.update_link_count'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (73db5423-4dd3-4e93-9e7d-8ed20ff9bd93)
+18:00:30 default: Job OK (73db5423-4dd3-4e93-9e7d-8ed20ff9bd93)
+18:00:30 Result is kept for 600 seconds
+18:00:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (646885a7-2316-49b4-b0e0-a83140dd6819)
+18:00:30 default: Job OK (646885a7-2316-49b4-b0e0-a83140dd6819)
+18:00:30 Result is kept for 600 seconds
+18:00:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (ffd6c3db-a46d-4ce7-a175-7552ba80a8b1)
+18:00:30 default: Job OK (ffd6c3db-a46d-4ce7-a175-7552ba80a8b1)
+18:00:30 Result is kept for 600 seconds
+18:00:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6472c04e-c47f-43a7-b659-f4e26364d227)
+18:00:31 default: Job OK (6472c04e-c47f-43a7-b659-f4e26364d227)
+18:00:31 Result is kept for 600 seconds
+18:00:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (13b6176e-91b2-4a75-bd07-6c4df6dd53d5)
+18:00:31 default: Job OK (13b6176e-91b2-4a75-bd07-6c4df6dd53d5)
+18:00:31 Result is kept for 600 seconds
+18:00:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (620f44aa-e39b-4b26-ab2f-f43c3b57f12a)
+18:00:31 default: Job OK (620f44aa-e39b-4b26-ab2f-f43c3b57f12a)
+18:00:31 Result is kept for 600 seconds
+18:00:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (398f9c62-810f-48b0-b51e-9d5111216535)
+18:00:31 default: Job OK (398f9c62-810f-48b0-b51e-9d5111216535)
+18:00:31 Result is kept for 600 seconds
+18:00:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.twofactor.delete_all_barcodes_for_users'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (436cfcb3-c1b3-4562-a85f-a3e613a27b09)
+18:00:32 default: Job OK (436cfcb3-c1b3-4562-a85f-a3e613a27b09)
+18:00:32 Result is kept for 600 seconds
+18:00:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.website.doctype.web_page.web_page.check_publish_status..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (edaa6e8f-68dd-48f3-9142-176e765f03bd)
+18:00:32 default: Job OK (edaa6e8f-68dd-48f3-9142-176e765f03bd)
+18:00:32 Result is kept for 600 seconds
+18:00:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.oauth.delete_oauth2_data'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (df75aa05-9b33-40a2-9302-ee358299bf8a)
+18:00:32 default: Job OK (df75aa05-9b33-40a2-9302-ee358299bf8a)
+18:00:32 Result is kept for 600 seconds
+18:03:47 Warm shut down requested
+18:03:47 Warm shut down requested
+18:03:47 Unsubscribing from channel rq:pubsub:ecee5feed9a04b4cb87d6ef039fb0a37.DESKTOP-H4C5U4M.7446.default
+18:03:47 Warm shut down requested
+18:03:47 Unsubscribing from channel rq:pubsub:bad2c0e4d45f493d9668a4772a3de466.DESKTOP-H4C5U4M.7438.long
+18:03:47 Unsubscribing from channel rq:pubsub:414b40180b5b431398db86839878e15c.DESKTOP-H4C5U4M.7434.short
+18:03:52 Worker rq:worker:25bad8c7290b464d89bf5a0f930a489c.DESKTOP-H4C5U4M.8135.long: started, version 1.8.1
+18:03:52 Subscribing to channel rq:pubsub:25bad8c7290b464d89bf5a0f930a489c.DESKTOP-H4C5U4M.8135.long
+18:03:52 Worker rq:worker:69805499dc4541ca8ca5eaedcac0a2bd.DESKTOP-H4C5U4M.8121.short: started, version 1.8.1
+18:03:52 Subscribing to channel rq:pubsub:69805499dc4541ca8ca5eaedcac0a2bd.DESKTOP-H4C5U4M.8121.short
+18:03:52 *** Listening on long...
+18:03:52 Cleaning registries for queue: long
+18:03:52 *** Listening on short...
+18:03:52 Cleaning registries for queue: short
+18:03:52 Worker rq:worker:48c1cf9ad27448bc9fe2d133f9aba1fc.DESKTOP-H4C5U4M.8133.default: started, version 1.8.1
+18:03:52 Subscribing to channel rq:pubsub:48c1cf9ad27448bc9fe2d133f9aba1fc.DESKTOP-H4C5U4M.8133.default
+18:03:52 *** Listening on default...
+18:03:52 Cleaning registries for queue: default
+18:04:52 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1577c69a-1c17-4723-9811-ef63d84a8632)
+18:04:53 default: Job OK (1577c69a-1c17-4723-9811-ef63d84a8632)
+18:04:53 Result is kept for 600 seconds
+18:04:53 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (438ed5b7-f9d6-4535-a928-2deb7472dc83)
+18:04:54 default: Job OK (438ed5b7-f9d6-4535-a928-2deb7472dc83)
+18:04:54 Result is kept for 600 seconds
+18:04:54 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (cf1d9115-b1e5-4c32-8b45-9184c0c38003)
+18:04:54 default: Job OK (cf1d9115-b1e5-4c32-8b45-9184c0c38003)
+18:04:54 Result is kept for 600 seconds
+18:04:54 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f8068856-3f2e-4ba4-8de7-666c6136f679)
+18:04:55 default: Job OK (f8068856-3f2e-4ba4-8de7-666c6136f679)
+18:04:55 Result is kept for 600 seconds
+18:04:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b30a9811-6181-4601-88e7-0ae7252c736c)
+18:04:55 default: Job OK (b30a9811-6181-4601-88e7-0ae7252c736c)
+18:04:55 Result is kept for 600 seconds
+18:04:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b46c0a55-ef5e-4084-99ef-9c8cd0fb9e85)
+18:04:55 default: Job OK (b46c0a55-ef5e-4084-99ef-9c8cd0fb9e85)
+18:04:55 Result is kept for 600 seconds
+18:04:55 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e44de222-1f45-454e-952b-818ddf4fa105)
+18:04:56 default: Job OK (e44de222-1f45-454e-952b-818ddf4fa105)
+18:04:56 Result is kept for 600 seconds
+18:04:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (b83d8170-a4e5-4e8a-9605-61b5b65bc3d0)
+18:04:56 default: Job OK (b83d8170-a4e5-4e8a-9605-61b5b65bc3d0)
+18:04:56 Result is kept for 600 seconds
+18:04:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (a3d381c9-ab0c-446f-927f-b1a8e20ad80f)
+18:04:56 default: Job OK (a3d381c9-ab0c-446f-927f-b1a8e20ad80f)
+18:04:56 Result is kept for 600 seconds
+18:04:56 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2a84f680-c19a-4966-850b-43a5a662cecb)
+18:04:56 default: Job OK (2a84f680-c19a-4966-850b-43a5a662cecb)
+18:04:56 Result is kept for 600 seconds
+18:05:26 Warm shut down requested
+18:05:26 Warm shut down requested
+18:05:26 Warm shut down requested
+18:05:26 Unsubscribing from channel rq:pubsub:25bad8c7290b464d89bf5a0f930a489c.DESKTOP-H4C5U4M.8135.long
+18:05:26 Unsubscribing from channel rq:pubsub:48c1cf9ad27448bc9fe2d133f9aba1fc.DESKTOP-H4C5U4M.8133.default
+18:05:26 Unsubscribing from channel rq:pubsub:69805499dc4541ca8ca5eaedcac0a2bd.DESKTOP-H4C5U4M.8121.short
+18:05:29 Worker rq:worker:bbc45656410d443d834e9d8c3ca0bfd6.DESKTOP-H4C5U4M.8288.short: started, version 1.8.1
+18:05:29 Subscribing to channel rq:pubsub:bbc45656410d443d834e9d8c3ca0bfd6.DESKTOP-H4C5U4M.8288.short
+18:05:29 *** Listening on short...
+18:05:29 Cleaning registries for queue: short
+18:05:29 Worker rq:worker:1a06d8f2d540471bb2f3e37753c63ada.DESKTOP-H4C5U4M.8309.default: started, version 1.8.1
+18:05:29 Subscribing to channel rq:pubsub:1a06d8f2d540471bb2f3e37753c63ada.DESKTOP-H4C5U4M.8309.default
+18:05:29 *** Listening on default...
+18:05:29 Cleaning registries for queue: default
+18:05:29 Worker rq:worker:0f602f1494a246809874bca6bc8e2ee2.DESKTOP-H4C5U4M.8292.long: started, version 1.8.1
+18:05:29 Subscribing to channel rq:pubsub:0f602f1494a246809874bca6bc8e2ee2.DESKTOP-H4C5U4M.8292.long
+18:05:29 *** Listening on long...
+18:05:29 Cleaning registries for queue: long
+18:06:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (d019b8da-de10-4fd0-8d7c-ea6f317dea84)
+18:06:30 default: Job OK (d019b8da-de10-4fd0-8d7c-ea6f317dea84)
+18:06:30 Result is kept for 600 seconds
+18:08:30 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (57098c79-3df1-4dbf-8864-c8c057773922)
+18:08:31 default: Job OK (57098c79-3df1-4dbf-8864-c8c057773922)
+18:08:31 Result is kept for 600 seconds
+18:08:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (7e39235f-8653-4a2b-adfc-afa572fd895e)
+18:08:31 default: Job OK (7e39235f-8653-4a2b-adfc-afa572fd895e)
+18:08:31 Result is kept for 600 seconds
+18:08:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e1f24f09-e81a-4458-94dc-8837c25681bc)
+18:08:31 default: Job OK (e1f24f09-e81a-4458-94dc-8837c25681bc)
+18:08:31 Result is kept for 600 seconds
+18:08:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (cedcd747-fd3c-4ddc-b11a-420a69f107bc)
+18:08:32 default: Job OK (cedcd747-fd3c-4ddc-b11a-420a69f107bc)
+18:08:32 Result is kept for 600 seconds
+18:08:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e0732c3c-7501-458c-9134-970081f402cd)
+18:08:32 default: Job OK (e0732c3c-7501-458c-9134-970081f402cd)
+18:08:32 Result is kept for 600 seconds
+18:08:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (30589b07-b4af-407e-a3f9-adf6a2521cab)
+18:08:32 default: Job OK (30589b07-b4af-407e-a3f9-adf6a2521cab)
+18:08:32 Result is kept for 600 seconds
+18:08:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (2d76ba5f-a02b-40fb-b93b-74f4efd13ad7)
+18:08:32 default: Job OK (2d76ba5f-a02b-40fb-b93b-74f4efd13ad7)
+18:08:32 Result is kept for 600 seconds
+18:08:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (8b84d0db-37d6-4db5-ad44-41edd7ba52fd)
+18:08:33 default: Job OK (8b84d0db-37d6-4db5-ad44-41edd7ba52fd)
+18:08:33 Result is kept for 600 seconds
+18:08:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (f87d7aa6-8b5a-468c-94e2-ac60e6cbc2ea)
+18:08:33 default: Job OK (f87d7aa6-8b5a-468c-94e2-ac60e6cbc2ea)
+18:08:33 Result is kept for 600 seconds
+18:08:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (50ac9bee-93cb-48e5-b94c-f48c4440fdd9)
+18:08:33 default: Job OK (50ac9bee-93cb-48e5-b94c-f48c4440fdd9)
+18:08:33 Result is kept for 600 seconds
+18:10:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.manufacturing.doctype.bom_update_log.bom_update_log.r..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (76e52c71-2763-4543-aa43-f6586f6fd227)
+18:10:31 default: Job OK (76e52c71-2763-4543-aa43-f6586f6fd227)
+18:10:31 Result is kept for 600 seconds
+18:12:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.crm.doctype.social_media_post.social_media_post.proce..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (060ff0f6-8288-4151-ac11-aef762012eb5)
+18:12:31 default: Job OK (060ff0f6-8288-4151-ac11-aef762012eb5)
+18:12:31 Result is kept for 600 seconds
+18:12:31 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.hr.doctype.interview.interview.send_interview_reminde..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6245f95e-83b1-4977-95c7-3a9b674c277c)
+18:12:32 default: Job OK (6245f95e-83b1-4977-95c7-3a9b674c277c)
+18:12:32 Result is kept for 600 seconds
+18:12:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.healthcare.doctype.patient_appointment.patient_appoin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (57276ec7-392a-4a72-a764-c1b332e8df31)
+18:12:32 default: Job OK (57276ec7-392a-4a72-a764-c1b332e8df31)
+18:12:32 Result is kept for 600 seconds
+18:12:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'erpnext.projects.doctype.project.project.project_status_updat..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (9736527e-cf19-44ef-b137-189fd8ad85ac)
+18:12:32 default: Job OK (9736527e-cf19-44ef-b137-189fd8ad85ac)
+18:12:32 Result is kept for 600 seconds
+18:12:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.monitor.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (1e66e2c5-f2e7-45c9-b1fb-bdd6f354457a)
+18:12:32 default: Job OK (1e66e2c5-f2e7-45c9-b1fb-bdd6f354457a)
+18:12:32 Result is kept for 600 seconds
+18:12:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.utils.global_search.sync_global_search'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (9f4ee9e1-2cc1-4b3e-b5a3-6e147b3a7879)
+18:12:32 default: Job OK (9f4ee9e1-2cc1-4b3e-b5a3-6e147b3a7879)
+18:12:32 Result is kept for 600 seconds
+18:12:32 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.integrations.doctype.razorpay_settings.razorpay_settin..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (6b4320fe-d193-4a83-ae81-e62db46ff336)
+18:12:33 default: Job OK (6b4320fe-d193-4a83-ae81-e62db46ff336)
+18:12:33 Result is kept for 600 seconds
+18:12:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.notify_unrep..., method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (e06e3e58-32f8-43bd-a392-82769d1ed913)
+18:12:33 default: Job OK (e06e3e58-32f8-43bd-a392-82769d1ed913)
+18:12:33 Result is kept for 600 seconds
+18:12:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.doctype.email_account.email_account.pull'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (cad4005f-6a55-40c3-bb00-9751d387ad5c)
+18:12:33 default: Job OK (cad4005f-6a55-40c3-bb00-9751d387ad5c)
+18:12:33 Result is kept for 600 seconds
+18:12:33 default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., kwargs={'job_type': 'frappe.email.queue.flush'}, method='frappe.core.doctype.scheduled_job_type.scheduled_job_type.run_scheduled_jo..., site='abakada-assessment-jeremiah-fernandez.com', user='Administrator') (aeff098c-6d11-4b4a-a5d7-4c656bc55790)
+18:12:33 default: Job OK (aeff098c-6d11-4b4a-a5d7-4c656bc55790)
+18:12:33 Result is kept for 600 seconds
+18:15:01 Warm shut down requested
+18:15:01 Warm shut down requested
+18:15:01 Warm shut down requested
+18:15:01 Unsubscribing from channel rq:pubsub:0f602f1494a246809874bca6bc8e2ee2.DESKTOP-H4C5U4M.8292.long
+18:15:01 Unsubscribing from channel rq:pubsub:1a06d8f2d540471bb2f3e37753c63ada.DESKTOP-H4C5U4M.8309.default
+18:15:01 Unsubscribing from channel rq:pubsub:bbc45656410d443d834e9d8c3ca0bfd6.DESKTOP-H4C5U4M.8288.short

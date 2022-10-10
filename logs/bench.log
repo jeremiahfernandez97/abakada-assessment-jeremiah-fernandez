@@ -1,0 +1,140 @@
+2022-10-10 16:50:19,943 DEBUG cd frappe-bench && python3 -m venv env
+2022-10-10 16:50:21,604 DEBUG cd frappe-bench && /home/jopet2/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2022-10-10 16:50:29,918 LOG Getting frappe
+2022-10-10 16:50:29,918 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-13 --depth 1 --origin upstream
+2022-10-10 16:51:13,095 LOG Installing frappe
+2022-10-10 16:51:13,095 DEBUG cd /home/jopet2/frappe-bench && /home/jopet2/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/jopet2/frappe-bench/apps/frappe 
+2022-10-10 16:53:18,334 DEBUG cd /home/jopet2/frappe-bench/apps/frappe && yarn install
+2022-10-10 16:54:36,662 DEBUG cd frappe-bench && bench build
+2022-10-10 16:54:36,765 INFO /usr/local/bin/bench build
+2022-10-10 16:54:44,516 LOG setting up backups
+2022-10-10 16:54:44,521 LOG backups were set up
+2022-10-10 16:54:44,521 INFO Bench frappe-bench initialized
+2022-10-10 16:55:47,711 INFO /usr/local/bin/bench start
+2022-10-10 16:55:48,026 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 16:55:48,028 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 16:55:48,030 INFO /usr/local/bin/bench watch
+2022-10-10 16:55:48,031 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 16:55:48,031 INFO /usr/local/bin/bench schedule
+2022-10-10 16:55:48,033 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 16:57:12,743 INFO /usr/local/bin/bench new-site abakada-assessment.com
+2022-10-10 16:57:46,462 INFO /usr/local/bin/bench use abakada-assessment.com
+2022-10-10 16:57:49,225 INFO /usr/local/bin/bench start
+2022-10-10 16:57:49,520 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 16:57:49,522 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 16:57:49,525 INFO /usr/local/bin/bench watch
+2022-10-10 16:57:49,529 INFO /usr/local/bin/bench schedule
+2022-10-10 16:57:49,530 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 16:57:49,545 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:01:35,107 INFO /usr/local/bin/bench drop-site abakada-assessment.com
+2022-10-10 17:01:46,106 INFO /usr/local/bin/bench drop-site abakada-assessment.com --force
+2022-10-10 17:02:12,138 INFO /usr/local/bin/bench drop-site abakada-assessment.com
+2022-10-10 17:02:19,499 INFO /usr/local/bin/bench new-site abakada-assessment.com
+2022-10-10 17:04:17,971 INFO /usr/local/bin/bench drop-site abakada-assessment.com
+2022-10-10 17:05:37,287 INFO /usr/local/bin/bench new-site abakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:06:35,970 INFO /usr/local/bin/bench start
+2022-10-10 17:06:36,278 INFO /usr/local/bin/bench watch
+2022-10-10 17:06:36,278 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:06:36,282 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:06:36,283 INFO /usr/local/bin/bench schedule
+2022-10-10 17:06:36,284 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:06:36,287 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:07:32,240 INFO /usr/local/bin/bench use bakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:07:36,284 INFO /usr/local/bin/bench use abakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:07:38,537 INFO /usr/local/bin/bench start
+2022-10-10 17:07:38,824 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:07:38,832 INFO /usr/local/bin/bench schedule
+2022-10-10 17:07:38,833 INFO /usr/local/bin/bench watch
+2022-10-10 17:07:38,837 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:07:38,838 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:07:38,842 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:10:31,208 INFO /usr/local/bin/bench start
+2022-10-10 17:10:31,532 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:10:31,534 INFO /usr/local/bin/bench schedule
+2022-10-10 17:10:31,540 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:10:31,541 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:10:31,542 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:10:31,543 INFO /usr/local/bin/bench watch
+2022-10-10 17:10:49,148 INFO /usr/local/bin/bench start
+2022-10-10 17:10:49,448 INFO /usr/local/bin/bench watch
+2022-10-10 17:10:49,450 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:10:49,451 INFO /usr/local/bin/bench schedule
+2022-10-10 17:10:49,457 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:10:49,457 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:10:49,458 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:11:01,437 INFO /usr/local/bin/bench --site dcode.com install-app erpnext
+2022-10-10 17:11:13,322 INFO /usr/local/bin/bench --site abakada-assessment-jeremiah-fernandez.com install-app erpnext
+2022-10-10 17:11:22,377 INFO /usr/local/bin/bench get-app erpnext --branch version-13
+2022-10-10 17:11:23,003 LOG Getting erpnext
+2022-10-10 17:11:23,004 DEBUG cd ./apps && git clone https://github.com/frappe/erpnext.git --branch version-13 --depth 1 --origin upstream
+2022-10-10 17:11:48,786 LOG Installing erpnext
+2022-10-10 17:11:48,935 DEBUG cd /home/jopet2/frappe-bench && /home/jopet2/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/jopet2/frappe-bench/apps/erpnext 
+2022-10-10 17:13:24,628 DEBUG cd /home/jopet2/frappe-bench/apps/erpnext && yarn install
+2022-10-10 17:13:26,737 DEBUG bench build --app erpnext
+2022-10-10 17:13:26,844 INFO /usr/local/bin/bench build --app erpnext
+2022-10-10 17:15:00,870 INFO /usr/local/bin/bench start
+2022-10-10 17:15:01,164 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:15:01,167 INFO /usr/local/bin/bench watch
+2022-10-10 17:15:01,167 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:15:01,169 INFO /usr/local/bin/bench schedule
+2022-10-10 17:15:01,171 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:15:01,175 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:19:58,748 INFO /usr/local/bin/bench drop-site abakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:20:21,776 INFO /usr/local/bin/bench new-site abakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:24:17,003 INFO /usr/local/bin/bench start
+2022-10-10 17:24:17,291 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:24:17,294 INFO /usr/local/bin/bench watch
+2022-10-10 17:24:17,298 INFO /usr/local/bin/bench schedule
+2022-10-10 17:24:17,299 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:24:17,299 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:24:17,305 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:30:04,131 INFO /usr/local/bin/bench --site abakada-assessment-jeremiah-fernandez.com install-app erpnext
+2022-10-10 17:30:33,572 INFO /usr/local/bin/bench --site abakada-assessment-jeremiah-fernandez.com reinstall
+2022-10-10 17:31:20,137 INFO /usr/local/bin/bench drop-site abakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:31:34,088 INFO /usr/local/bin/bench new-site abakada-assessment-jeremiah-fernandez.com
+2022-10-10 17:32:45,513 INFO /usr/local/bin/bench --site abakada-assessment-jeremiah-fernandez.com install-app erpnext
+2022-10-10 17:36:30,187 INFO /usr/local/bin/bench start
+2022-10-10 17:36:30,501 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:36:30,505 INFO /usr/local/bin/bench schedule
+2022-10-10 17:36:30,505 INFO /usr/local/bin/bench watch
+2022-10-10 17:36:30,510 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:36:30,510 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:36:30,514 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:46:24,290 INFO /usr/local/bin/bench new-app Abakada
+2022-10-10 17:46:24,296 LOG creating new app abakada
+2022-10-10 17:46:53,098 LOG Installing abakada
+2022-10-10 17:46:53,099 DEBUG cd /home/jopet2/frappe-bench && /home/jopet2/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/jopet2/frappe-bench/apps/abakada 
+2022-10-10 17:46:54,580 DEBUG bench build --app abakada
+2022-10-10 17:46:54,676 INFO /usr/local/bin/bench build --app abakada
+2022-10-10 17:47:12,444 INFO /usr/local/bin/bench version
+2022-10-10 17:47:16,870 INFO /usr/local/bin/bench start
+2022-10-10 17:47:17,212 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:47:17,217 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:47:17,220 INFO /usr/local/bin/bench watch
+2022-10-10 17:47:17,222 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 17:47:17,225 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:47:17,226 INFO /usr/local/bin/bench schedule
+2022-10-10 17:49:57,756 INFO /usr/local/bin/bench install-app Abakada
+2022-10-10 17:50:10,530 INFO /usr/local/bin/bench version
+2022-10-10 17:50:15,100 INFO /usr/local/bin/bench install-app abakada
+2022-10-10 17:50:19,272 INFO /usr/local/bin/bench start
+2022-10-10 17:50:19,624 INFO /usr/local/bin/bench watch
+2022-10-10 17:50:19,625 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 17:50:19,628 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 17:50:19,628 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 17:50:19,631 INFO /usr/local/bin/bench schedule
+2022-10-10 17:50:19,639 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 18:03:50,643 INFO /usr/local/bin/bench start
+2022-10-10 18:03:51,034 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 18:03:51,036 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 18:03:51,040 INFO /usr/local/bin/bench watch
+2022-10-10 18:03:51,041 INFO /usr/local/bin/bench schedule
+2022-10-10 18:03:51,047 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 18:03:51,048 INFO /usr/local/bin/bench worker --queue default
+2022-10-10 18:05:27,906 INFO /usr/local/bin/bench start
+2022-10-10 18:05:28,386 INFO /usr/local/bin/bench watch
+2022-10-10 18:05:28,387 INFO /usr/local/bin/bench serve --port 8000
+2022-10-10 18:05:28,389 INFO /usr/local/bin/bench schedule
+2022-10-10 18:05:28,401 INFO /usr/local/bin/bench worker --queue short
+2022-10-10 18:05:28,409 INFO /usr/local/bin/bench worker --queue long
+2022-10-10 18:05:28,418 INFO /usr/local/bin/bench worker --queue default
